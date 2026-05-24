@@ -49,28 +49,29 @@ O resultado final do pipeline gera um arquivo JSON estruturado exatamente assim:
     ]
   }
 ]
+```
 
-================================
+---
 
-💻 Como Executar o Projeto Localmente
+## 💻 Como Executar o Projeto Localmente
 Clone este repositório:
-
+```
 Bash
 	git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
-
+```
 Instale as dependências necessárias:
-
+```
 Bash
 	pip install pandas google-genai
-
+```
 Configure a sua chave de API do Google AI Studio no arquivo principal antes de rodar o script.
 
-Execute o pipeline:
-
+## Execute o pipeline:
+```
 Bash
 	python pipeline.py
-
-🔗 Links Úteis e Referências
+```
+## 🔗 Links Úteis e Referências
 Google AI Studio: Plataforma onde a chave de API e os testes com o modelo Gemini foram gerenciados. (https://aistudio.google.com/)
 
 Se achou este projeto interessante para a sua base de estudos de Engenharia de Dados ou pipelines de IA, sinta-se à vontade para dar um ⭐️ no repositório! Conexões e feedbacks sobre boas práticas de arquitetura são sempre muito bem-vindos! 🚀
