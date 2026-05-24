@@ -56,8 +56,8 @@ O resultado final do pipeline gera um arquivo JSON estruturado exatamente assim:
 ## 💻 Como Executar o Projeto Localmente
 Clone este repositório:
 ```
-Bash
-	git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+bash
+   git clone [https://github.com/pablo-rafael/pipeline-etl-crm-ai.git](https://github.com/pablo-rafael/pipeline-etl-crm-ai.git)
 ```
 Instale as dependências necessárias:
 ```
