@@ -66,7 +66,7 @@ Bash
 ```
 Configure a sua chave de API do Google AI Studio no arquivo principal antes de rodar o script.
 
-## Execute o pipeline:
+Execute o pipeline:
 ```
 Bash
 	python pipeline.py
