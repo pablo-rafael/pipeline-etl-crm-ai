@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "nome": "Gabriel Silva",
+    "plano": "Premium",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Mariana Souza",
+    "plano": "Free",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Lucas Oliveira",
+    "plano": "Premium",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Beatriz Santos",
+    "plano": "Premium",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Matheus Rodrigues",
+    "plano": "Free",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Ana Costa",
+    "plano": "Free",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Guilherme Almeida",
+    "plano": "Free",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Larissa Carvalho",
+    "plano": "Premium",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Rodrigo Ferreira",
+    "plano": "Free",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Camila Ribeiro",
+    "plano": "Free",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Gustavo Pereira",
+    "plano": "Free",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Isabela Martins",
+    "plano": "Premium",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Felipe Barbosa",
+    "plano": "Free",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Letícia Gomes",
+    "plano": "Premium",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Thiago Pinto",
+    "plano": "Premium",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Bruna Lima",
+    "plano": "Free",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Daniel Dias",
+    "plano": "Free",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Amanda Castro",
+    "plano": "Free",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Leonardo Rocha",
+    "plano": "Free",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Novidade: Desbloqueie recursos incríveis no seu painel hoje mesmo!"
+      }
+    ]
+  }
+]
